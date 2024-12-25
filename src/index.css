@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  @apply text-base;
+  font-family: 'Space Grotesk', sans-serif !important;
+}
